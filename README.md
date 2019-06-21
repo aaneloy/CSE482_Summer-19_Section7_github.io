@@ -1,5 +1,5 @@
 
-<h1 style="color:red;">NORTH SOUTH UNIVERSITY</h1> <br><img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
+<br><img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
 <br/> DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
 
 
