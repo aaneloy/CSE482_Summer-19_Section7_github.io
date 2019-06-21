@@ -166,8 +166,9 @@ Any means of unauthorized assistance in preparing materials which a student subm
 </p>
 
 > Announcements
+<br>
 N/A
-
+</br>
 
 <strong>Homework</strong>
 <p align="central">
