@@ -1,12 +1,12 @@
 # CSE482_Summer-19_Section 7
 
 
-### NORTH SOUTH UNIVERSITY <img align="left" width="100" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
+### NORTH SOUTH UNIVERSITY <img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
 ### DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
 
-
-## CSE482L: Internet and Web Technology Lab Summer 2019
-
+``
+CSE482L: Internet and Web Technology Lab Summer 2019
+``
 ### Faculty Member: Dr. M. Arifur Rahman (MAh1)
 ### Lab Instructor: Asif Ahmed Neloy
 ### Office Room: TBA
