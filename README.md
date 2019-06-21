@@ -30,9 +30,9 @@ To introduce a student with the modern web development techniques in order to de
   </br>
 </p>
 
-<strong>Mark Distribution</strong>
+<strong>Mark Distribution:</strong>
 <br>
-<p align="justify">
+<p align="central">
 <table style="width:100%">
   <tr>
     <th>Class Attendance:</th>
