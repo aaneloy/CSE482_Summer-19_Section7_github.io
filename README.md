@@ -76,31 +76,64 @@ To introduce a student with the modern web development techniques in order to de
 <p align="central">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
+    <th>Week</th>
+    <th>Lab</th> 
+    <th>syllabus</th>
+    <th>Date</th>
+  </tr>
+  <tr>
     <th>Week 1</th>
     <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Lab1">Lab1</a></th> 
     <th>Introduction to HTML</th>
+    <th>16.06.2019</th>
   </tr>
   <tr>
     <th>Week 2</th>
-    <th><a href="">Lab2</a></th> 
-    <th>10%</th> 
+    <th>Lab2</th> 
+    <th>Introduction to CSS</th> 
+    <th>23.06.2019</th>
   </tr>
     <tr>
-    <th><i>*Project:</th></i>
-    <th>20%</th> 
+    <th>Week3</th>
+    <th>Lab3</th> 
+    <th>Basic JavaScript + <strong>Checkpoint 1</strong></th> 
+    <th>30.06.2019</th>  
   </tr>
       <tr>
-    <th>Quiz (two):</th>
-    <th>10%</th> 
+    <th>Week4</th>
+    <th>Lab4</th> 
+    <th>JavaScript Details+ <strong>Checkpoint 2</strong></th> 
+    <th>7.07.2019</th> 
   </tr>
     <tr>
-    <th>Midterm Exam:</th>
-    <th>20%</th>
+    <th>Week5</th>
+    <th>Lab5</th> 
+    <th>Introduction to PHP +<strong> Mid</strong></th> 
+    <th>14.07.2019</th> 
   </tr> 
-   </tr>
     <tr>
-    <th>Final:</th>
-    <th>30%</th>
+    <th>Week6</th>
+    <th>Lab6</th> 
+    <th>Database Handling + <strong>Checkpoint 3</strong></th> 
+    <th>21.07.2019</th> 
   </tr>  
+      <tr>
+    <th>Week8</th>
+    <th>Lab8</th> 
+    <th>Basic Ajax and XML+ <strong>Checkpoint 4</strong></th> 
+    <th>28.07.2019</th> 
+  </tr> 
+      <tr>
+    <th>Week9</th>
+    <th>Lab9</th> 
+    <th>Ajax Live Search and Rest Service</th> 
+    <th>4.08.2019</th> 
+  </tr> 
+      <tr>
+    <th>Week10</th>
+    <th>Lab10</th> 
+    <th><strong><i>Final</strong></i></th> 
+    <th>11.08.2019</th> 
+  </tr> 
 </table>
 </p>
