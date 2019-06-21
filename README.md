@@ -33,7 +33,7 @@ To introduce a student with the modern web development techniques in order to de
 <strong>Mark Distribution:</strong>
 <br>
 <p align="central">
-<table style="width:100%">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th>Class Attendance:</th>
     <th>10%</th> 
