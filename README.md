@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html>
+  
 <br><img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
 <br/> DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
 
@@ -135,3 +137,7 @@ To introduce a student with the modern web development techniques in order to de
   </tr> 
 </table>
 </p>
+
+
+</body>
+</html>
