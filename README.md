@@ -23,7 +23,9 @@ Wednesday (W) - 12:00 pm - 1:30 pm
   <strong> <i> <a href="https://www.piazza.com/north_south_university/summer2019/cse482aan/home"> Piazza Link </a>  </strong> </i>
   </br>
 </p>
-### Course Description:
+<strong> Course Description: </strong>
+<br>
 <p align="justify">
 To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.
+  </br>
 </p>
