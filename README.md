@@ -1,8 +1,8 @@
 # CSE482_Summer-19_Section 7
 
 
-### NORTH SOUTH UNIVERSITY <img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
-### DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
+#### NORTH SOUTH UNIVERSITY <img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
+#### DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
 
 
 # CSE482L: Internet and Web Technology Lab Summer 2019
