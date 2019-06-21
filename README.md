@@ -78,9 +78,11 @@ To introduce a student with the modern web development techniques in order to de
   <tr>
     <th>Week 1</th>
     <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Lab1">Lab1</a></th> 
+    <th>Introduction to HTML</th>
   </tr>
   <tr>
-    <th>Lab Assessment:</th>
+    <th>Week 2</th>
+    <th><a href="">Lab2</a></th> 
     <th>10%</th> 
   </tr>
     <tr>
