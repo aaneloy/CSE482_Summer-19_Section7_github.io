@@ -19,7 +19,7 @@ Sunday (S) - 2:40 pm - 5:50 pm
 ### Classroom: LIB605
 
 <p align="center">
-  <strong> <i> Piazza Access Code: You know where to find &#128074; </strong> </i>
+  <strong> <i> Piazza Access Code: You know where to find out &#128074; &#128540; </strong> </i>
   <br>
   <strong> <i> <a href="https://www.piazza.com/north_south_university/summer2019/cse482aan/home"> Piazza Link </a>  </strong> </i>
   </br>
