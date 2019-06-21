@@ -63,9 +63,10 @@ To introduce a student with the modern web development techniques in order to de
 </p>
 </br>
 <p align="central">
-``
+  
+```
 The marks distribution may change according to the discretion of the instructor.
-``
+```
   </p>
 <br>
 </br>
