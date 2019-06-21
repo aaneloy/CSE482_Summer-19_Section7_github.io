@@ -91,31 +91,31 @@ To introduce a student with the modern web development techniques in order to de
     <tr>
     <th>Week3</th>
     <th>Lab3</th> 
-    <th>Basic JavaScript + <strong>Checkpoint 1</strong></th> 
+    <th>Basic JavaScript + <i>Checkpoint 1</i></th> 
     <th>30.06.2019</th>  
   </tr>
       <tr>
     <th>Week4</th>
     <th>Lab4</th> 
-    <th>JavaScript Details+ <strong>Checkpoint 2</strong></th> 
+    <th>JavaScript Details+ <i>Checkpoint 2</i></th> 
     <th>7.07.2019</th> 
   </tr>
     <tr>
     <th>Week5</th>
     <th>Lab5</th> 
-    <th>Introduction to PHP +<strong> Mid</strong></th> 
+    <th>Introduction to PHP +<i> Mid</i</th> 
     <th>14.07.2019</th> 
   </tr> 
     <tr>
     <th>Week6</th>
     <th>Lab6</th> 
-    <th>Database Handling + <strong>Checkpoint 3</strong></th> 
+    <th>Database Handling + <i>Checkpoint 3</i></th> 
     <th>21.07.2019</th> 
   </tr>  
       <tr>
     <th>Week8</th>
     <th>Lab8</th> 
-    <th>Basic Ajax and XML+ <strong>Checkpoint 4</strong></th> 
+    <th>Basic Ajax and XML+ <i>Checkpoint 4</i></th> 
     <th>28.07.2019</th> 
   </tr> 
       <tr>
