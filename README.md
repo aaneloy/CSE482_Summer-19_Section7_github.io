@@ -179,6 +179,10 @@ Any means of unauthorized assistance in preparing materials which a student subm
 </table>
 </p>
 
+<strong> Project </strong>
+<p align="justify">
+The purpose of the Project Plan is to document all managerial aspects of a project that are required to execute it successfully within its constraints. If some aspects are defined in separate plans (e.g. Quality Assurance Plan, Configuration Management Plan, Risk Management Plan, Project Schedule), the Project Plan should refer to these documents.
+</p>
 
 </body>
 </html>
