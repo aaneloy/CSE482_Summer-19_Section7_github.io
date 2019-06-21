@@ -30,7 +30,7 @@ To introduce a student with the modern web development techniques in order to de
   </br>
 </p>
 
-<table style="width:100%">
+<table style="width:100%",align="justify">
   <tr>
     <th>Class Attendance:</th>
     <th>10%</th> 
@@ -40,7 +40,7 @@ To introduce a student with the modern web development techniques in order to de
     <th>10%</th> 
   </tr>
     <tr>
-    <th><strong>*Project:</th></strong>
+    <th><i>*Project:</th></i>
     <th>20%</th> 
   </tr>
       <tr>
