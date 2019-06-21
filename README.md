@@ -71,5 +71,34 @@ To introduce a student with the modern web development techniques in order to de
 </br>
 <strong>Tentative Class Schedule:</strong>
 <br>
-
 </br>
+
+<p align="central">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th>Week 1</th>
+    <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Lab1">Lab1</a></th> 
+  </tr>
+  <tr>
+    <th>Lab Assessment:</th>
+    <th>10%</th> 
+  </tr>
+    <tr>
+    <th><i>*Project:</th></i>
+    <th>20%</th> 
+  </tr>
+      <tr>
+    <th>Quiz (two):</th>
+    <th>10%</th> 
+  </tr>
+    <tr>
+    <th>Midterm Exam:</th>
+    <th>20%</th>
+  </tr> 
+   </tr>
+    <tr>
+    <th>Final:</th>
+    <th>30%</th>
+  </tr>  
+</table>
+</p>
