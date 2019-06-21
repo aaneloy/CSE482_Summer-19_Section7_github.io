@@ -18,6 +18,9 @@ Wednesday (W) - 12:00 pm - 1:30 pm
 Sunday (S) - 2:40 pm - 5:50 pm
 ### Classroom: LIB605
 
+> Announcements </br>
+N/A
+
 <p align="center">
   <strong> <i> Piazza Access Code: You know where to find out &#128074; &#128540; </strong> </i>
   <br>
@@ -164,9 +167,6 @@ I’ll provide the lab manual and you’ll have to complete the given tasks duri
 <p align="justify">
 Any means of unauthorized assistance in preparing materials which a student submits as original work is deemed to be cheating. Any kind of cheating or plagiarism will make your obtained marks zero for that report, assignment, quiz or exam. Both who copied and who let others copy will be treated as same, meaning both will get zero for that report, assignment, quiz or exam.
 </p>
-
-> Announcements </br>
-N/A
 
 <strong>Homework</strong>
 <p align="central">
