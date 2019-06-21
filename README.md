@@ -168,7 +168,7 @@ I’ll provide the lab manual and you’ll have to complete the given tasks duri
 Any means of unauthorized assistance in preparing materials which a student submits as original work is deemed to be cheating. Any kind of cheating or plagiarism will make your obtained marks zero for that report, assignment, quiz or exam. Both who copied and who let others copy will be treated as same, meaning both will get zero for that report, assignment, quiz or exam.
 </p>
 
-<strong>Homework</strong>
+# Homework
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
       <tr>
