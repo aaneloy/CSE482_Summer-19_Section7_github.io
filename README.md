@@ -29,3 +29,31 @@ Wednesday (W) - 12:00 pm - 1:30 pm
 To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.
   </br>
 </p>
+
+<table style="width:100%">
+  <tr>
+    <th>Class Attendance:</th>
+    <th>10%</th> 
+  </tr>
+  <tr>
+    <th>Lab Assessment:</th>
+    <th>10%</th> 
+  </tr>
+    <tr>
+    <th><strong>*Project:</th></strong>
+    <th>20%</th> 
+  </tr>
+      <tr>
+    <th>Quiz (two):</th>
+    <th>10%</th> 
+  </tr>
+    <tr>
+    <th>Midterm Exam:</th>
+    <th>20%</th>
+  </tr> 
+   </tr>
+    <tr>
+    <th>Final:</th>
+    <th>30%</th>
+  </tr>  
+</table>
