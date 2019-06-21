@@ -63,8 +63,6 @@ To introduce a student with the modern web development techniques in order to de
 
 > The marks distribution may change according to the discretion of the instructor.
 
-<br>
-</br>
 <strong>Tentative Class Schedule:</strong>
 <p align="central">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
