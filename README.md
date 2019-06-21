@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   
-<br><img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
-<br/> DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
+<img align="left" width="80" height="100" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/nsulogo.png">
+> DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING
 
 
-> CSE482L: Internet and Web Technology Summer'19
+# CSE482L: Internet and Web Technology Summer'19
 
 ### Faculty Member: Dr. M. Arifur Rahman (MAh1)
 ### Lab Instructor: [Asif Ahmed Neloy](https://www.linkedin.com/in/a2neel/)
