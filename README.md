@@ -20,6 +20,6 @@ Wednesday (W) - 12:00 pm - 1:30 pm
 <p align="center">
   <strong> <i> Piazza Access Code: cse482aan </strong> </i>
   <br>
-  <strong> <i> <a href="piazza.com/north_south_university/summer2019/cse482aan/home"> Piazza Link </a>  </strong> </i>
+  <strong> <i> <a href="https://www.piazza.com/north_south_university/summer2019/cse482aan/home"> Piazza Link </a>  </strong> </i>
   </br>
 </p>
