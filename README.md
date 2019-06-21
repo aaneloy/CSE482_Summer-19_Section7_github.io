@@ -31,7 +31,6 @@ To introduce a student with the modern web development techniques in order to de
 </p>
 
 <strong>Mark Distribution:</strong>
-<br>
 <p align="central">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
@@ -61,9 +60,6 @@ To introduce a student with the modern web development techniques in order to de
   </tr>  
 </table>
 </p>
-</br>
-
-  
 
 > The marks distribution may change according to the discretion of the instructor.
 
