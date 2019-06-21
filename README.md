@@ -170,8 +170,17 @@ Any means of unauthorized assistance in preparing materials which a student subm
 
 <strong>Homework</strong>
 <p align="central">
-  <p><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Homework">Submit Here</a> </p>
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+    <tr>
+    <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Homework">Submit Here</a></th>
+  </tr>
+      <tr>
+    <th>Homework1</th>
+    <th>Update Git repo with HTML and CSS section</th> 
+    <th>30.06.2019</th> 
+  </tr> 
+</table>
+</p>
 
 
 </body>
