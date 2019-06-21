@@ -18,6 +18,6 @@ Wednesday (W) - 12:00 pm - 1:30 pm
 ### Classroom: LIB605
 
 <p align="center">
-  <strong> Piazza Access Code: cse482aan </strong>
+  <strong> <i> Piazza Access Code: cse482aan </strong> </i>
 
 </p>
