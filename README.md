@@ -62,12 +62,11 @@ To introduce a student with the modern web development techniques in order to de
 </table>
 </p>
 </br>
-<p align="central">
+
   
-```
-The marks distribution may change according to the discretion of the instructor.
-```
-  </p>
+
+> The marks distribution may change according to the discretion of the instructor.
+
 <br>
 </br>
 <strong>Tentative Class Schedule:</strong>
