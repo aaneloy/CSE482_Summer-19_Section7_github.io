@@ -160,9 +160,7 @@ Distracting others in lab class is violating others rights to be attentive. So, 
 <p align="justify">
 I’ll provide the lab manual and you’ll have to complete the given tasks during the class time. Last 30 minutes of the class is fixed for checking and grading. I’ll explain the problems at the beginning of the class and you can ask me at any point of the class, if you need any additional information.
 </p>
-<br>
-</br>
- 
+
 <strong> Academic Honesty:</strong>
 <p align="justify">
 Any means of unauthorized assistance in preparing materials which a student submits as original work is deemed to be cheating. Any kind of cheating or plagiarism will make your obtained marks zero for that report, assignment, quiz or exam. Both who copied and who let others copy will be treated as same, meaning both will get zero for that report, assignment, quiz or exam.
