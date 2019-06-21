@@ -8,7 +8,7 @@
 # CSE482L: Internet and Web Technology Summer'19
 
 ### Faculty Member: Dr. M. Arifur Rahman (MAh1)
-### Lab Instructor: Asif Ahmed Neloy
+### Lab Instructor: [Asif Ahmed Neloy](https://www.linkedin.com/in/a2neel/)
 ### Office Room: TBA
 ### Email: asif.neloy@northsouth.edu
 ### Office Hours:
