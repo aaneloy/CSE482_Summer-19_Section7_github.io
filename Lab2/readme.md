@@ -13,7 +13,6 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
  
  </p>
 
-
 > Advantages of CSS
 <p align="justify">
 <li><strong>CSS saves time -</li></strong> You can write CSS once and then reuse the same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many web pages as you want.
@@ -22,7 +21,15 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
 <li><strong>Superior styles to HTML -</li></strong>CSS has a much wider array of attributes than HTML, so you can give a far better look to your HTML page in comparison to HTML attributes.
 <li><strong>Multiple Device Compatibility -</li></strong>Style sheets allow content to be optimized for more than one type of device. By using the same HTML document, different versions of a website can be presented for handheld devices such as PDAs and cellphones or for printing.
 <li><strong>Global web standards -</li></strong>Now HTML attributes are being deprecated and it is being recommended to use CSS. So it’s a good idea to start using CSS in all the HTML pages to make them compatible with future browsers.
-
 </p>
+
+> Who Creates and Maintains CSS?
+<p align="justify">
+CSS is created and maintained through a group of people within the W3C called the CSS Working Group. The CSS Working Group creates documents called specifications. When a specification has been discussed and officially ratified by the W3C members, it becomes a recommendation.These ratified specifications are called recommendations because the W3C has no control over the actual implementation of the language. Independent companies and organizations create that software.
+<strong>NOTE:</strong> The World Wide Web Consortium or W3C is a group that makes recommendations about how the Internet works and how it should evolve.
+  </p>
+
+
+
 </body>
 </html>
