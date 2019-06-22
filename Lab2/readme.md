@@ -28,8 +28,10 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
 CSS is created and maintained through a group of people within the W3C called the CSS Working Group. The CSS Working Group creates documents called specifications. When a specification has been discussed and officially ratified by the W3C members, it becomes a recommendation.These ratified specifications are called recommendations because the W3C has no control over the actual implementation of the language. Independent companies and organizations create that software.
 <br><strong>NOTE:</strong> The World Wide Web Consortium or W3C is a group that makes recommendations about how the Internet works and how it should evolve.</br>
   </p>
-
-
+> CSS Versions
+<p align="justify">
+Cascading Style Sheets level 1 (CSS1) came out of W3C as a recommendation in December 1996. This version describes the CSS language as well as a simple visual formatting model for all the HTML tags.CSS2 became a W3C recommendation in May 1998 and builds on CSS1. This version adds support for media-specific style sheets e.g. printers and aural devices, downloadable fonts, element positioning and tables.
+</p>
 
 </body>
 </html>
