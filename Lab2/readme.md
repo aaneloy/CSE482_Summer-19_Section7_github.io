@@ -57,6 +57,10 @@ A CSS comprises of style rules that are interpreted by the browser and then appl
   </tr> 
 </table>
 </p>
+Here table is a selector and border is a property and the given value 1px solid #C00 is the value of that property.
+You can define selectors in various simple ways based on your comfort. Let me put these selectors one by one.
+
+
 </p>
 
 
