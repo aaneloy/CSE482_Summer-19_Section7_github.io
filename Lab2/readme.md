@@ -37,14 +37,20 @@ Cascading Style Sheets level 1 (CSS1) came out of W3C as a recommendation in Dec
 ## CSS ─ SYNTAX
 <p align="justify">
 A CSS comprises of style rules that are interpreted by the browser and then applied to the corresponding elements in your document. A style rule is made of three parts:
-<br></br>
+
 <li><strong>Selector:</li></strong> A selector is an HTML tag at which a style will be applied. This could be any tag like < h1 > or < table > etc.
 <li><strong>Property:</li></strong> A property is a type of attribute of HTML tag. Put simply, all the HTML attributes are converted into CSS properties. They could be color, border, etc.
 <li><strong>Value:</li></strong>Values are assigned to properties. For example, color property can have the value either red or #F1F1F1 etc.
+You can put CSS Style Rule Syntax as follows:
+<p align="central">
+  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+      <tr>
+    <th>selector { property: value }</th>
+  </tr> 
+</table>
+</p>
+</p>
 
-
-
-  </p>
 
 </body>
 </html>
