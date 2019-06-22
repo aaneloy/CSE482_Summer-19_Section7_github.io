@@ -41,7 +41,7 @@ A CSS comprises of style rules that are interpreted by the browser and then appl
 <li><strong>Selector:</li></strong> A selector is an HTML tag at which a style will be applied. This could be any tag like < h1 > or < table > etc.
 <li><strong>Property:</li></strong> A property is a type of attribute of HTML tag. Put simply, all the HTML attributes are converted into CSS properties. They could be color, border, etc.
 <li><strong>Value:</li></strong>Values are assigned to properties. For example, color property can have the value either red or #F1F1F1 etc.
-<br>You can put CSS Style Rule Syntax as follows:</br>
+<br></br>You can put CSS Style Rule Syntax as follows:
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
       <tr>
