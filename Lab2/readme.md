@@ -13,9 +13,10 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
  
  </p>
 
-<p align="justify">
+
 > Advantages of CSS
-- **CSS saves time** - You can write CSS once and then reuse the same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many web pages as you want.
+<p align="justify">
+<li><strong>CSS saves time -</li></strong> You can write CSS once and then reuse the same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many web pages as you want.
 - **Pages load faster** - If you are using CSS, you do not need to write HTML tag attributes every time. Just write one CSS rule of a tag and apply it to all the occurrences of that tag. So, less code means faster download times.
 - **Easy maintenance** - To make a global change, simply change the style, and all the elements in all the web pages will be updated automatically.
 - **Superior styles to HTML** - CSS has a much wider array of attributes than HTML, so you can give a far better look to your HTML page in comparison to HTML attributes.
