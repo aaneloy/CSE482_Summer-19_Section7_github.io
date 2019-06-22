@@ -49,6 +49,14 @@ A CSS comprises of style rules that are interpreted by the browser and then appl
   </tr> 
 </table>
 </p>
+<br></br><strong>Example:</strong> You can define a table border as follows:
+<p align="central">
+  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+      <tr>
+    <th>table{ border :1px solid #C00; }</th>
+  </tr> 
+</table>
+</p>
 </p>
 
 
