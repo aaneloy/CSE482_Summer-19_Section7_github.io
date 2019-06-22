@@ -17,11 +17,11 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
 > Advantages of CSS
 <p align="justify">
 <li><strong>CSS saves time -</li></strong> You can write CSS once and then reuse the same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many web pages as you want.
-- **Pages load faster** - If you are using CSS, you do not need to write HTML tag attributes every time. Just write one CSS rule of a tag and apply it to all the occurrences of that tag. So, less code means faster download times.
-- **Easy maintenance** - To make a global change, simply change the style, and all the elements in all the web pages will be updated automatically.
-- **Superior styles to HTML** - CSS has a much wider array of attributes than HTML, so you can give a far better look to your HTML page in comparison to HTML attributes.
-- **Multiple Device Compatibility** - Style sheets allow content to be optimized for more than one type of device. By using the same HTML document, different versions of a website can be presented for handheld devices such as PDAs and cellphones or for printing.
-- **Global web standards** – Now HTML attributes are being deprecated and it is being recommended to use CSS. So it’s a good idea to start using CSS in all the HTML pages to make them compatible with future browsers.
+<li><strong>Pages load faster - </li></strong>If you are using CSS, you do not need to write HTML tag attributes every time. Just write one CSS rule of a tag and apply it to all the occurrences of that tag. So, less code means faster download times.
+<li><strong>Easy maintenance -</li></strong> To make a global change, simply change the style, and all the elements in all the web pages will be updated automatically.
+<li><strong>Superior styles to HTML -</li></strong>CSS has a much wider array of attributes than HTML, so you can give a far better look to your HTML page in comparison to HTML attributes.
+<li><strong>Multiple Device Compatibility -</li></strong>Style sheets allow content to be optimized for more than one type of device. By using the same HTML document, different versions of a website can be presented for handheld devices such as PDAs and cellphones or for printing.
+<li><strong>Global web standards -</li></strong>Now HTML attributes are being deprecated and it is being recommended to use CSS. So it’s a good idea to start using CSS in all the HTML pages to make them compatible with future browsers.
 
 </p>
 </body>
