@@ -26,7 +26,7 @@ Cascading Style Sheets, fondly referred to as CSS, is a simple design language i
 > Who Creates and Maintains CSS?
 <p align="justify">
 CSS is created and maintained through a group of people within the W3C called the CSS Working Group. The CSS Working Group creates documents called specifications. When a specification has been discussed and officially ratified by the W3C members, it becomes a recommendation.These ratified specifications are called recommendations because the W3C has no control over the actual implementation of the language. Independent companies and organizations create that software.
-<strong>NOTE:</strong> The World Wide Web Consortium or W3C is a group that makes recommendations about how the Internet works and how it should evolve.
+<br><strong>NOTE:</strong> The World Wide Web Consortium or W3C is a group that makes recommendations about how the Internet works and how it should evolve.</br>
   </p>
 
 
