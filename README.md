@@ -84,7 +84,7 @@ To introduce a student with the modern web development techniques in order to de
   </tr>
   <tr>
     <th>Week 2</th>
-    <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/tree/master/Lab2">Lab2</a></th> 
+    <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab2/readme.md">Lab2</a></th> 
     <th>Introduction to CSS</th> 
     <th>23.06.2019</th>
   </tr>
