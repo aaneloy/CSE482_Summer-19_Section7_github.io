@@ -184,10 +184,8 @@ Any means of unauthorized assistance in preparing materials which a student subm
 </table>
 
 <strong> Instructions: </strong>
-<p align="justify">
 <b><i>For lab 2, create a seperate Folder named "Homework 2", update the "readme.md" file according to the content provided in the 
 <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Task_2.pdf</a>.</b></i> 
-</p>
 </p>
 
 # Project 
