@@ -199,8 +199,8 @@ The purpose of the Project Plan is to document all managerial aspects of a proje
 <b>
   <ol> 
    <li> <a href="https://guides.github.com/">Github Basic Guide</a>. </i>
-  <li> <a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">Github Starting Instruction </a>. </i>
-  <li> <a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6"> Started Information </a>.</li>
+  <li> <a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">Github for beginners </a>. </i>
+  <li> <a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6"> Starter Information </a>.</li>
   <li> <a href="https://education.github.com/pack"> Upgrading to pro </a>.</li>
   <li> <a href="https://www.youtube.com/watch?v=sOciDss1EEY"> Adding Contributors (asif.neloy@northsouth.edu) </a>.</li>
   <li> <a href="https://gist.github.com/hofmannsven/6814451"> Git CheatSheet </a>.</li>
