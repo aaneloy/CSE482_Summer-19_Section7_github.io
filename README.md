@@ -176,6 +176,11 @@ Any means of unauthorized assistance in preparing materials which a student subm
     <th>Update Git repo with HTML and CSS section</th> 
     <th>30.06.2019</th> 
   </tr> 
+     <tr>
+    <th>Homework2</th>
+    <th>Upload Homework1 screenshots and <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Task_2</a></th> 
+    <th>30.06.2019</th> 
+  </tr> 
 </table>
 </p>
 
