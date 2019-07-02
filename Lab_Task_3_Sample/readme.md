@@ -9,11 +9,14 @@ This is a very simple problem. In this task, yiu have to design a sample assignm
  </ol> 
   </br>
 </p>
+
+<strong> Picture-1 (Sample Assignment Page) </strong>
 <p align="center">
   <img width="560" height="550" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/Task%203.PNG">
 </p>
+<strong> Picture-2 (Submission page) </strong>
 <p align="center">
-  <img width="360" height="350" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/Task3_1.PNG">
+  <img width="260" height="250" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/Task3_1.PNG">
 </p>
 
 
