@@ -5,5 +5,5 @@ This is a very simple problem. In this task, yiu have to design a sample assignm
   </br>
 </p>
 <p align="center">
-  <img width="460" height="450" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/Task%203.PNG">
+  <img width="560" height="550" src="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/image/Task%203.PNG">
 </p>
