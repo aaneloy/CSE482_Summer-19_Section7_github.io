@@ -69,7 +69,7 @@ To introduce a student with the modern web development techniques in order to de
 
 <strong>Tentative Class Schedule:</strong>
 <p align="central">
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table style="border:2px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th>Week</th>
     <th>Lab</th> 
@@ -90,7 +90,7 @@ To introduce a student with the modern web development techniques in order to de
   </tr>
     <tr>
     <th>Week3</th>
-    <th>Lab3</th> 
+    <th><a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab%203/Lab_3.pdf">Lab3</a></th> 
     <th>Basic JavaScript + <i>Checkpoint 1</i></th> 
     <th>30.06.2019</th>  
   </tr>
@@ -183,7 +183,7 @@ Any means of unauthorized assistance in preparing materials which a student subm
   </tr> 
    <tr>
     <th>Homework 3</th>
-    <th>Read the <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab%203/Lab_3.pdf">Lab_3.pdf</a>, I might give a task from this pdf in Lab4 and follow <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab_Task_3_Sample/readme.md"">Task_3.pdf</a> to complete the Task </th> 
+    <th>Read the <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab%203/Lab_3.pdf">Lab_3.pdf</a>, I might give a task from this pdf in Lab4 and follow <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab_Task_3_Sample/readme.md"">Task_3.pdf</a> to complete the Task that is provided</th> 
     <th>07.07.2019</th> 
   </tr> 
 </table>
