@@ -1,7 +1,7 @@
 <strong> Task 3 </strong>
 <br>
 <p align="justify">
-This is a very simple problem. In this task, yiu have to design a sample assignment submission page using HTML and CSS. Look at the picture below, this will be your sample page.The following condition should be followed in the the sample page- 
+This is a very simple problem. In this task, you have to design a sample assignment submission page using HTML and CSS. Look at the picture 1 below, this will be your sample page.The following condition should be followed in the the sample page- 
     <ol> <b>
    <li>You have to fill all the box to submit the assignment </i>
   <li>Date choiche should contain 2 months - June July with 30 and 31 days, year 2019</i>
