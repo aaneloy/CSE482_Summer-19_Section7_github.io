@@ -172,14 +172,19 @@ Any means of unauthorized assistance in preparing materials which a student subm
 <p align="central">
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
       <tr>
-    <th>Homework1</th>
+    <th>Homework 1</th>
     <th>Update Git repo with HTML and CSS section</th> 
     <th>30.06.2019</th> 
   </tr> 
      <tr>
-    <th>Homework2</th>
+    <th>Homework 2</th>
     <th>Upload Homework1 screenshots and <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Resources/Task_2.pdf">Task_2</a></th> 
     <th>30.06.2019</th> 
+  </tr> 
+   <tr>
+    <th>Homework 3</th>
+    <th>Read the <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab%203/Lab_3.pdf">Lab_3.pdf</a>, I might give a task from this pdf in Lab4 and follow <a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7/blob/master/Lab%203/Lab_3.pdf">Task_3.pdf</a> to complete the Task </th> 
+    <th>07.07.2019</th> 
   </tr> 
 </table>
 
